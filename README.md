@@ -12,9 +12,9 @@ Still-image of the ocean wave animation:
 
 
 
-
-
-Video available in repository -> Choppy_waves.mp3
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25433576/136050214-21973ecb-ff7a-4a60-b433-c564af6f145b.png" />
+</p>
 
 
 
