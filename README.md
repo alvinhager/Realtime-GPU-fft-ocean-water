@@ -10,6 +10,10 @@ The resulting animation shows the heightfield of ocean waves as it changes throu
 Still-image of the ocean wave animation:
 ![image](https://user-images.githubusercontent.com/25433576/136050214-21973ecb-ff7a-4a60-b433-c564af6f145b.png)
 
+
+
+
+
 Video available in repository -> Choppy_waves.mp3
 
 
