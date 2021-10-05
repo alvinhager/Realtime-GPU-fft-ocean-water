@@ -8,8 +8,11 @@ It is based on the method the thesis work presented in "Realtime GPGPU FFT Ocean
 The resulting animation shows the heightfield of ocean waves as it changes through time, where white signifies higher elevation and black lower elevation. 
 
 Still-image of the ocean wave animation:
+![image](https://user-images.githubusercontent.com/25433576/136050214-21973ecb-ff7a-4a60-b433-c564af6f145b.png)
 
-![image](https://user-images.githubusercontent.com/25433576/136047182-83972b6f-c81e-42f0-adf4-be2f890dcfee.png)
+Video available in repository -> Choppy_waves.mp3
+
+
 
 
 
