@@ -7,5 +7,7 @@ It is based on the method the thesis work presented in "Realtime GPGPU FFT Ocean
 
 The resulting animation shows the heightfield of ocean waves as it changes through time, where white signifies higher elevation and black lower elevation. 
 
-https://user-images.githubusercontent.com/25433576/136202382-4a62f5e0-91b6-4674-9bb2-f62bdea506bc.mp4
+https://user-images.githubusercontent.com/25433576/136210799-aaf53662-c245-4532-97d1-dba4a2b82f07.mp4
+
+
 
