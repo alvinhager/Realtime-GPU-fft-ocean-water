@@ -13,11 +13,8 @@ still image of the animation:
   <img width=400 height=400 src="https://user-images.githubusercontent.com/25433576/136050214-21973ecb-ff7a-4a60-b433-c564af6f145b.png" />
 </p>
 
-
-full animation can be seen in choppy_waves.mp3 -> included in github repository
-
-
-
+animation of changing heightfield for moving ocean water waves produced in realtime: 
+https://user-images.githubusercontent.com/25433576/136201836-05c3a22a-eaec-4e16-95d1-b95ff22592d8.mp4
 
 
 
